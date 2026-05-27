@@ -67,6 +67,6 @@ Desktop Automation Features
 🔊 Teju: The current time is 02:04 PM.
 # Author
 
-# Deva Tejaswi Jupudi
+**Deva Tejaswi Jupudi**
 
 _B.Tech Student | Aspiring AI/ML Engineer | Python Developer_
